@@ -47,10 +47,6 @@ javac problem1_solution.java
 java problem1_solution
 ```
 
-## HackerRank Profile
-
-You can view my full profile and progress on HackerRank here.
-
 ## Contributing
 
 Contributions are welcome! If you would like to suggest alternative solutions or optimizations, feel free to fork the repository and submit a pull request.
